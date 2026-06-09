@@ -12,3 +12,4 @@ FastTelethonhelper
 humanreadable
 pillow
 gunicorn
+aiohttp
