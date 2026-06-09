@@ -5,7 +5,7 @@ BOT_TOKEN = "8678869575:AAGgF-LGcw0UP3d6YB3D7K3EaIqBcS5NhDs"  # bot token
 
 
 # REDIS
-HOST = "red-d8jli5sm0tmc73fej0jg"  # redis host uri
+HOST = "redis://red-d8jli5sm0tmc73fej0jg"  # redis host uri
 PORT = 6379  # redis port
 PASSWORD = ""  # redis password
 
